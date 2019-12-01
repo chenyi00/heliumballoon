@@ -1,5 +1,4 @@
-# heliumballoon
-JHU helium balloon project.
+# JHU Helium Balloon Project
 
 Principal Investigator:
 
