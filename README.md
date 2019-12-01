@@ -3,7 +3,7 @@ JHU helium balloon project.
 
 Principal Investigator:
 
-  Dr. Brice Ménard "Brie's"
+  - Dr. Brice Ménard "Brie's"
   
 Student Members: 
   Chenyi Zhu "Lisa"
